@@ -1,0 +1,9 @@
+{
+  "host": "https://ai.test.haumo.cn:8443", // 访问地址
+  "framework": "flutter", // 框架(uniapp、flutter)，不填默认为uniapp
+  "routeFile": "lib/routes.dart", // 路由文件
+  "codeDir": "lib", // 代码目录
+  "projectId": "db838b64ce3d733cd6570fa6148bfd04", // 项目ID，必填
+  "port": "7000", // 端口，不填默认为5173
+  "routerMode": "hash" // 路由模式，参考src/manifest.json中的h5.router.mode，默认为hash
+}
