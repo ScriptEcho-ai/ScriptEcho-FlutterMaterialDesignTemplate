@@ -39,8 +39,8 @@ class CircleColor {
     return other is CircleColor && start == other.start && end == other.end;
   }
 
-  @override
-  int get hashCode => hashValues(start, end);
+  // @override
+  // int get hashCode => hashValues(start, end);
 }
 
 class OvershootCurve extends Curve {
