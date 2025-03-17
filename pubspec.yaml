@@ -151,7 +151,7 @@ dependencies:
   http_auth: ^1.0.4
   flutter_paystack:
     git:
-      url: git@github.com:iqonic-design/flutter_paystack.git
+      url: https://gitee.com/ScriptEcho/flutter_paystack.git
       ref: 1.1.0
 
   #Temporarily disabled due to lack of null safety
